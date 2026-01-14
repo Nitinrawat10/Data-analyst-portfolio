@@ -35,10 +35,7 @@ It provides clear insights into sales performance using charts, pivot tables, an
 2. Open in Microsoft Excel
 3. Navigate to the **Dashboard** sheet
 4. Use filters (if available) to explore insights
-
-## Project Preview
-![Dashboard Screenshot](Excel Dashboard/Screenshots)
-
+   
 ## Author
 **Nitin Rawat**  
 Excel Dashboard Project
