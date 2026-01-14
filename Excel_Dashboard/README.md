@@ -17,7 +17,7 @@ It provides clear insights into sales performance using charts, pivot tables, an
 - Dashboard Design
 
 ## Dataset Information
-- Sheet Name: `sales_data`
+- Sheet Name: 'sales_data'
 - Contains raw sales-related data used for analysis and reporting
 
 ## Analysis Sheet
