@@ -37,7 +37,7 @@ It provides clear insights into sales performance using charts, pivot tables, an
 4. Use filters (if available) to explore insights
 
 ## Project Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Excel Dashboard/Screenshots)
 
 ## Author
 **Nitin Rawat**  
